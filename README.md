@@ -1,5 +1,5 @@
-Hello Aorus
-dngkdfgklbmcvbcv,b;cv
-fknckvbcvbclvmb
-xknvkxncbklcblcmvb
+Hello Aorus Users
+We have shifted to new server
+So All Keys need to change 
+Please contact your seller 
 
