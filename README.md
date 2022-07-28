@@ -1,8 +1,9 @@
-Hello Aorus Users
-We have shifted to new server
-So All Keys need to change 
-Please contact your seller and get replace with new key
-Thank you
+Dear Users
+ByPass Internally Updated 
+Fixed Vietnam (VNG) Bugs
+Safe to play on All version 
+Enjoy !!!
+
 
 
 
