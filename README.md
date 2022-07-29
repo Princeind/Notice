@@ -1,8 +1,9 @@
 Dear Users
-ByPass Internally Updated 
-Fixed Vietnam (VNG) Bugs
-Safe to play on All version 
-Enjoy !!!
+
+Game has been updated 1.2mb
+Please test some match with normal id 
+Before going to Main ID
+Thank you
 
 
 
