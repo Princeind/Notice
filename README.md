@@ -1,7 +1,7 @@
 Dear Users
-Game has been updated 1.2mb
-Please test some match with normal id 
-Before going to Main ID
+Bypass Updated Internel
+please test 2-4 match with normal id before going to main
+We have tested 1 day safe to use main id
 Thank you
 
 
