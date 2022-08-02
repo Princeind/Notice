@@ -1,7 +1,7 @@
 Dear Users
-Bypass Updated Internel
-BGMI  = Flash Safe 
-Note ID must be Daimond+ & above level 40+
+BGMI Anticheat Updated
+BGMI users Play on normal ID until we confirm safety
+Global | VNG | KR | TW  safe can play MAIN ID
 Thank you
 
 
