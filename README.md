@@ -1,7 +1,6 @@
 Dear BGMI Users 
-Bypass updated internely for BGMI 
-Please restart the bypass and use it 
-We have tested several matches safe to use 
+BGMI = We got some 3 day ban reports so avoid using main id
+GL | VNG | KR | TW = Safe to use
 Thank you
 
 
