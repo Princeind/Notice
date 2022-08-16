@@ -1,7 +1,8 @@
 Dear BGMI Users 
-we have pushed a internal update in Bypass
-please restart the Bypass and test some match with normal id before going to main
-BGMI safe with internal flash
+
+Please download the New Exe
+- Added Emulator Bypass check in it 
+- If Bypass not done emulator will crash
 Thank you.
 
 
