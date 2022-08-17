@@ -1,7 +1,6 @@
-Dear BGMI Users 
-Please download the New Exe
-- Added Emulator Bypass check in it 
-- If Bypass not done emulator will crash
+Dear Users 
+BGMI  = STOP Playing on Main ID
+Global / KR / Tw /Vng = Safe to play Main ID 
 Thank you.
 
 
